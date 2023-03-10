@@ -1,0 +1,84 @@
+.osnova{
+    margin-left: 414px;
+    margin-right: 414px;
+    background: white;
+    height: 1280px;
+}
+.nazvanie{
+    font-size: 25px;
+    font-family: Verdana;
+    padding-top: 41px;
+    padding-left: 45px;
+
+
+}
+.price{
+    display: inline-block;
+    font-family: Verdana;
+    font-size: 30px;
+    padding-left: 114px;
+
+}
+.knopka{
+
+    padding-left: 45px;
+    position: absolute;
+    top: 600px;
+
+}
+.buy{
+    font-family: Verdana;
+    font-size: 24px;
+    height: 38px;
+    width: 250px;
+    background: deepskyblue;
+
+}
+.photo3 {
+    padding-top: 21px;
+    padding-left: 45px;
+    display: inline-block;
+    position: absolute;
+}
+
+.photo3 img{
+    height: 372px;
+    width: 309px;
+    }
+.opis{
+
+    display: inline-block;
+    height: 422px;
+    width: 621px;
+    font-family: Verdana;
+    font-size: 17px;
+    padding-left: 45px;
+    border: solid;
+    border-color: black;
+}
+.text{
+
+    padding-left: 20px;
+    display: inline-block;
+    width: 630px;
+    font-size: 24px;
+    position: absolute;
+    right: 445px;
+    padding-top: 21px;
+}
+.block-info{
+
+    margin-top: 0px;
+    padding-top: 21px;
+    padding-left: 45px;
+    display: inline-block;
+    position: absolute;
+    top: 450px;
+}
+.block-info p{
+    font-size: 23px;
+    font-family: Verdana;
+    text-align: left;
+
+
+}

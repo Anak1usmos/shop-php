@@ -1,0 +1,537 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(../img/photo/photo2.jpg);
+    padding: 0;
+    margin: 0;
+
+
+}
+.header{
+    display: flex;
+    background: black;
+    width: 100%;
+    height: 71px;
+
+}
+
+.header .menu ul{
+    display:flex;
+    margin-top: 28px;
+
+}
+.header .logo{
+    margin-left:27%;
+}
+.header .menu ul li{
+    display: flex;
+    list-style: none;
+}
+.menu a {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}
+.ob{
+    margin-left: 9px;
+
+}
+.ob2{
+    margin-left: 50px;
+
+}
+.ob3{
+    margin-left: 50px;
+
+}
+.ob4{
+    margin-left: 50px;
+    vertical-align: top;
+    font-size: 12px;
+
+}
+.ob5{
+    margin-left: 50px;
+
+}
+.ob6{
+    margin-left: 39px;
+
+}
+.backet{
+    margin-left: 29px;
+    margin-top: 20px;
+
+}
+
+
+.glav{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 1150px;
+}
+
+
+.photka{
+    position:relative;
+
+}
+
+.photka img{
+    width: 100%;
+
+
+}
+
+#btn-pre{
+    border:none;
+    background: url(../img/photo/btn-prev.png) no-repeat;
+    width: 53px;
+    height: 51px;
+    position: absolute;
+    left: 0;
+    top: 183px;
+}
+#btn-nex{
+    border:none;
+    background: url(../img/photo/btn-next.png) no-repeat;
+    width: 53px;
+    height: 51px;
+    position: absolute;
+    right: 0;
+    top: 183px;
+}
+.prod{
+    font-size: 18px;
+    margin-top: 36px;
+    font-family: Verdana;
+
+}
+
+.pop1{
+    display: inline-block;
+
+
+}
+.prod{
+    display: block;
+}
+
+.pop1 img{
+
+    padding-right: 37px;
+
+
+}
+
+.pop1 .kar12 img{
+    padding: 0px;
+
+}
+
+.textik ul {
+    diplay:flex;
+    list-style: none;
+
+
+}
+
+.textik ul li a{
+    text-decoration: none;
+    margin-left: 0px;
+    font-family: Verdana;
+    font-size:16px;
+    font-weight: lighter;
+    color: black;
+}
+
+.textik ul li{
+    display: inline;
+
+}
+
+.textik .ob100 {
+    margin-left: 20px;
+
+}
+
+.textik .ob101 {
+    margin-left: 131px;
+
+}
+
+.textik .ob102 {
+    margin-left: 76px;
+}
+
+.textik .ob103{
+    margin-left: 105px;
+
+}
+.textik2 ul{
+    list-style: none;
+    display:flex;
+    margin-top: 10px;
+}
+
+.textik2 ul li a{
+    text-decoration: none;
+    margin-left: 0px;
+    font-family: Verdana;
+    font-size: 16px;
+    color: black;
+
+}
+.textik2 .ob104{
+    margin-left: 100px;
+}
+.textik2 .ob105{
+    margin-left: 140px;
+}
+.textik2 .ob106{
+    margin-left: 130px;
+}
+.textik2 .ob107{
+    margin-left: 140px;
+}
+.textik2 .ob108{
+    margin-left: 130px;
+}
+.prod2 {
+    font-size: 18px;
+    margin-top: 36px;
+    font-family: Verdana;
+}
+
+.prod3 {
+    font-size: 18px;
+    margin-top: 36px;
+    font-family: Verdana;
+}
+
+
+.footer {
+    display: flex;
+    background: gray;
+    width: 100%;
+    height: 90px;
+
+
+}
+.textik7 {
+    font-family: Verdana;
+    font-size: 16px;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.textik7 p{
+    text-decoration: none;
+
+}
+
+
+.igra {
+    display: inline-block;
+    margin-left: 26px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.igra p{
+    text-align: right;
+    color: black;
+}
+.igra h4 a{
+    color: black;
+}
+.igra2 h4 a{
+    color: black;
+}
+.igra3 h4 a{
+    color: black;
+}
+.igra2{
+    display: inline-block;
+    margin-left: 27px;
+}
+.igra2 p{
+    text-align: right;
+    color: black;
+}
+.igra3 {
+    display: inline-block;
+    margin-left: 27px;
+}
+.igra3 p {
+    text-align: right;
+}
+
+.igra a{
+    text-decoration: none;
+}
+.igra2 a{
+    text-decoration: none;
+}
+.igra3 a{
+    text-decoration: none;
+}
+.seredina {
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 780px;
+}
+
+.obelisk img{
+    height: 500px;
+    width: 200px;
+
+}
+.Aizek{
+    text-align: center;
+
+}
+.seredina p{
+    font-size: 25px;
+}
+.supp{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 780px;
+
+}
+.supp p{
+    font-size: 25px;
+
+}
+textarea{
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+}
+.catalogplace{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 1400px;
+
+}
+.genre{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 1400px;}
+
+.containercatalog{
+    display: inline-block;
+
+    width: 1000px;
+}
+
+.namegame{
+    display: inline-block;
+    position: absolute;
+    margin-top: 25px;
+    font-size: 25px;
+    margin-left: 25px;
+
+}
+
+.namegame p a{
+    text-decoration: none;
+    color:black;
+}
+
+.price2{
+    display: inline-block;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 350px;
+}
+.price2 p{
+    color: black;
+}
+.knopkacatalog{
+    display: inline-block;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 650px;
+}
+.knopkacatalog a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.photogame{
+    display: inline-block;
+}
+.namegame p{
+    vertical-align: middle;
+}
+.registr{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 1280px;
+}
+.forma{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    height: 400px;
+    margin-left: 400px;
+
+
+}
+.forma2{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 400px;
+    margin-left: 400px;
+}
+.forma2 b {
+    font-size: 20px;
+}
+.GG{
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 3px 67px;
+}
+.forma2 a{
+    font-size: 18px;
+
+}
+.z322{
+    font-size: 18px;
+}
+.cabinet{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 1280px;
+}
+.cabin2 ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+.change{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 1280px;
+}
+
+.change2{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    height: 400px;
+
+}
+.cart{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 1280px;
+
+}
+.goodsInCart{
+    width: 100%;
+}
+.genre{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 780px;
+}
+.goodsInCart tr td a{
+    text-decoration: none;
+    color: black;
+    margin-left: 140px;
+}
+.goodsInCart tr td{
+    margin-left: 250px;
+}
+.z666z{
+    margin-left: 75px;
+
+    }
+.zz1122{
+    margin-left: 80px;
+}
+.rr99{
+    margin-right: 70px;
+}
+.content1 ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+
+}
+.knopka a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.block-info .properties1 li{
+    list-style-type: none;
+    font-size: 25px;
+}
+.end2{
+
+
+
+}
+.sered{
+    margin-bottom: 0px;
+    background: white;
+    margin-left: 414px;
+    margin-right: 414px;
+    padding: 30px 30px 0px 30px;
+    height: 780px;
+}
+.knopkacatalog button{
+    padding: 6px 15px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+.knopka button{
+    padding: 6px 15px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
